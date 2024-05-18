@@ -2,6 +2,7 @@
 
 - 👨🏻‍💻Meu nome é John tenho 15 anos comecei a focar na programação aos 14 anos
 - 🎓Estou aprendendo atualmente HTML, CSS E JS para aplicações WEB
+- 📚Atualmente no 1ºano do Ensino Medio, e estudando inglês para o programa Ganhe o mundo(Pernambuco)
 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">

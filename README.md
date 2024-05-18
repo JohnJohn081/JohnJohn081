@@ -15,6 +15,4 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnJohn081&repo=HTML-PROJETO&theme=algolia)](https://github.com/JohnJohn081/HTML-PROJETO)
-
 

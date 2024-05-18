@@ -1,4 +1,4 @@
-# Hi JohnJohn
+# Oi Meu nome é John e Seja bem-vindo ao meu Perfil!
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=JohnJohn081&show_icons=true&theme=github_dark" alt="Meu Status 😊" style="width: 49%;"/>

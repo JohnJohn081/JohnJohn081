@@ -1,5 +1,9 @@
 # Oi! Eu sou o John 😊
 
+- 👨🏻‍💻Meu nome é John tenho 15 anos comecei a focar na programação aos 14 anos
+- 🎓Estou aprendendo atualmente HTML, CSS E JS para aplicações WEB
+
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=JohnJohn081&show_icons=true&theme=github_dark" alt="Meu Status 😊" style="width: 49%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnJohn081&hide=css,glsl&layout=compact&theme=github_dark" alt="Top Langs" style="width:

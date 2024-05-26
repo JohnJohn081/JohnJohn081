@@ -12,7 +12,7 @@
 </div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnJohn081&repo=HTML-PROJETO&theme=algolia)](https://github.com/JohnJohn081/HTML-PROJETO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnJohn081&repo=HTML-PROJETO&theme=algolia)](https://github.com/JohnJohn081/HTML-PROJETO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnJohn081&repo=PROJETO-ETE&theme=algolia)](https://github.com/JohnJohn081/HTML-PROJETO)
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 50px;"/>

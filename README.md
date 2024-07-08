@@ -1,34 +1,51 @@
-# Oi! Eu sou o John 😊
+<h2 align="left">Olá! Meu nome é John :)</h2>
 
-- 👨🏻‍💻Meu nome é John tenho 15 anos comecei a focar na programação aos 14 anos
-- 🎓Estou aprendendo atualmente HTML, CSS E JS para aplicações WEB
-- 📚Atualmente no 1ºano do Ensino Medio
+###
 
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnJohn081&show_icons=true&theme=github_dark" alt="Meu Status 😊" style="width: 49%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnJohn081&hide=css,glsl&layout=compact&theme=github_dark" alt="Top Langs" style="width:
-49%;"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JohnJohn081&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnJohn081&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnJohn081&repo=HTML-PROJETO&theme=algolia)](https://github.com/JohnJohn081/HTML-PROJETO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JohnJohn081&repo=PROJETO-ETE&theme=algolia)](https://github.com/JohnJohn081/PROJETO-ETE)
+###
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 50px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="width: 50px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="width: 50px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" style="width: 50px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="width: 50px;"/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="45" alt="lua logo"  />
 </div>
 
-  ##
-  
-<div> 
-  <a href="https://youtube.com/@johnmta329?si=mHgayXRCHcrJSpnr" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/_johnvx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/59hxAXtRXV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+###
 
-  
+<div align="left">
+  <a href="https://www.instagram.com/_johnvx/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/fRUt7tUpS8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/8w9kjh.gif"  />
+
+###
+
+<p align="left">- 👨🏻‍💻Meu nome é John tenho 15 anos comecei a focar na programação aos 14 anos<br>- 🎓Estou aprendendo atualmente HTML, CSS E JS para aplicações WEB<br>- 📚Atualmente no 1ºano do Ensino Medio</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JohnJohn081/JohnJohn081/output/snake.svg" alt="Snake animation" />
+
+###

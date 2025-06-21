@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">- 👨🏻‍💻Meu nome é John tenho 15 anos comecei a focar na programação aos 14 anos<br>- 🎓Estou aprendendo atualmente HTML, CSS E JS para aplicações WEB<br>- 📚Atualmente no 2ºano do Ensino Medio</p>
+<p align="left">- 👨🏻‍💻Meu nome é John tenho 16 anos comecei a focar na programação aos 14 anos<br>- 🎓Estou aprendendo atualmente HTML, CSS E JS para aplicações WEB<br>- 📚Atualmente no 2ºano do Ensino Medio</p>
 
 ###
 

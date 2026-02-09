@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">- 👨🏻‍💻Meu nome é John tenho 16 anos comecei a focar na programação aos 14 anos<br>- 🎓Estou aprendendo atualmente Java para aplicações<br>- 📚Atualmente no 2ºano do Ensino Medio</p>
+<p align="left">- 👨🏻‍💻Meu nome é John tenho 16 anos comecei a estudar programação aos 14 anos<br>- 🎓Estou focando em projetos e em programação vibe coding<br>- 📚Atualmente no 3ºano do Ensino Medio</p>
 
 ###
 

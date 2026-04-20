@@ -1,49 +1,56 @@
-<h2 align="left">Olá! Meu nome é John :)</h2>
+# 👋 Olá, eu sou John Maclebio (JohnJohn)
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7F00FF&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full-Stack;Builder+com+IA;Fundador+do+YaApp;Automatizando+o+futuro+com+código" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnJohn081&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnJohn081&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+💻 Desenvolvedor Full-Stack | 🚀 Builder com IA | ⚡ Fundador do YaApp  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="45" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="45" alt="MySQL logo com nome" />
-</div>
+## 🚀 Sobre mim
+- 📍 Ribeirão - PE  
+- 🎓 Estudante de TDS — **ETE Palmares** (3º ano E.M | Conclusão: Dez/2026)  
+- 🧠 Foco em **Engenharia de Prompt** e **Arquitetura de Soluções com IA**  
+- ⚡ Criador do **YaApp**, uma EdTech que transforma aprendizado em uma experiência interativa e gamificada  
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/_johnvx/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/fRUt7tUpS8" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+## 🛠 Tech Stack
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/8w9kjh.gif"  />
+## 🌐 Conecte-se comigo
+- 📸 **Instagram:** <a href="https://instagram.com/_johnvx" target="_blank">@_johnvx</a>  
+- 🚀 **YaApp:** <a href="https://yaapp.com.br/" target="_blank">Conheça o projeto</a>  
+- 🧠 **Arqueo3D:** <a href="https://www.instagram.com/arqueo_3d/" target="_blank">Conheça o projeto</a>  
 
-###
+---
 
-<p align="left">- 👨🏻‍💻Meu nome é John tenho 16 anos comecei a estudar programação aos 14 anos<br>- 🎓Estou focando em projetos e em programação vibe coding<br>- 📚Atualmente no 3ºano do Ensino Medio</p>
+## 📊 Estatísticas
+![John GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnJohn081&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnJohn081&layout=compact&theme=radical)
 
-###
+---
 
-<br clear="both">
+## ⚡ Mentalidade
 
-###
+> Código muda. Ferramenta muda. Paradigma muda.  
+> Enquanto você reclama da IA, alguém já automatizou o seu lugar.
+
+---
+
+## 🧠 Atualmente focado em:
+- 🔥 IA aplicada à educação  
+- ⚙️ Automação inteligente  
+- 📈 Construção de produtos escaláveis  
+
+---
+
+## 🚀 Projetos em destaque
+- ⚡ **YaApp** — Plataforma educacional gamificada com IA  
+- 🧠 **Arqueo3D** — Tecnologia aplicada à visualização arqueológica  

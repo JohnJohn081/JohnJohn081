@@ -37,8 +37,6 @@
 
 ---
 
-## ⚡ Mentalidade
-
 > Código muda. Ferramenta muda. Paradigma muda.  
 > Enquanto você reclama da IA, alguém já automatizou o seu lugar.
 
